@@ -1,0 +1,70 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:/media/edrive/Work/TheSarvikaWay.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Cantarell Regular" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BuildView.Splitter.Proportion" value="0.31693685" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="snip&#10;gruvbox&#10;thymele&#10;thymel&#10;thyme" />
+    <property name="JUnit.Splitter.Proportion" value="0.2607046" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LiveContextsPanel[0]" value="0.110192835" />
+    <property name="MarketplacePluginsSearchHistory" value="snip&#10;gruvbox&#10;gruv&#10;gru&#10;ideavim" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2321839" />
+    <property name="SHELLCHECK.PATH" value="$APPLICATION_PLUGINS_DIR$/Shell Script/shellcheck" />
+    <property name="SettingsSearchHistory" value="repos&#10;template&#10;snip&#10;format&#10;ideavim" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.5634302" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="debugger.smart.chooser.counter" value="3" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.192" value="18" />
+    <property name="evlsprt3.193" value="17" />
+    <property name="export.settings.marked" value="scala_config.xml|code.style.schemes.xml|codestyles|databaseDrivers.xml|debugger.xml|colors.scheme.xml|colors|editor.xml|find.xml|ignore.xml|keymap.xml|keymaps|KeyPromoterXSettings.xml|ide-features-trainer.xml|templates.xml|templates|laf.xml|markdown.xml|path.macros.xml|plugin_ui.xml|baseRefactoring.xml|ide.general.xml|jdk.table.xml|scala.xml|toStringTemplates.xml|ui.lnf.xml|updates.xml|" />
+    <property name="file.chooser.recent.files" value="/avetti/svn/C85RestwsModule&#10;/home/jgodara/Downloads/theme-1867.xml&#10;/home/jgodara/Downloads/Tomorrow Night.xml&#10;/home/jgodara/Downloads/theme-1162.xml&#10;/home/jgodara/Downloads/theme-1886.xml&#10;/avetti/svn/ShopSTARCommerce&#10;/avetti/svn/commerce8.5&#10;/media/edrive/Work/area51/ecommfycommerce2&#10;/media/edrive/Work/area51/ecommfycommerce2/microservices/communications_microservice&#10;/avetti/svn/AvettiComCcProcessorsModule&#10;/media/edrive/Work/BroadleafCommerce&#10;/avetti/svn/HaloComPunchoutModule&#10;/avetti/doi&#10;/media/edrive/Work/TheSarvikaWay.xml&#10;/avetti/svn/SingleSignonModule&#10;/media/edrive/Work/ioblaze/blaze" />
+    <property name="file.gist.reindex.count" value="32039" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1578026128809" />
+    <property name="installed.kotlin.plugin.version" value="1.3.61-release-IJ2019.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.lastUpdateCheck" value="1582040599976" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.61-release-IJ2019.3-1:2019-11-26" />
+    <property name="last.imported.location" value="/avetti/svn/C85RestwsModule" />
+    <property name="lastTip" value="168" />
+    <property name="learn.toolwindow.button.info.shown" value="true" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1582523618445" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.InternalMavenModuleBuilder" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Arrangement" />
+    <property name="settings.code.style.selected.tab.kotlin" value="Imports" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.7.2" />
+  </component>
+</application>

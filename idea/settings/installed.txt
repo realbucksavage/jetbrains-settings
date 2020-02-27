@@ -1,0 +1,15 @@
+BashSupport
+Key Promoter X
+com.intellij.kubernetes
+com.intellij.plugins.html.instantEditing
+com.jetbrains.darkPurpleTheme
+com.jetbrains.lightThemePreview
+com.mallowigi
+com.markskelton.one-dark-theme
+com.tylerthrailkill.intellij.solarized
+com.vincentp.gruvbox-theme
+io.protostuff.protostuff-jetbrains-plugin
+mobi.hsz.idea.gitignore
+org.intellij.scala
+org.toml.lang
+training

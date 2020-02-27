@@ -1,0 +1,39 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/avetti/svn/commerce8.5">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1TmJOczQEdofHjPK4IPGajqusoD">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5233.102" />
+              <option name="buildTimestamp" value="1574895190506" />
+              <frame x="1920" y="-13" width="1920" height="1093" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1576486815663" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/media/edrive/Work/area51/ecommfycommerce2">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1UmsSqIEPuya8qDVziWxq67UTdN">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645743697" />
+              <frame x="1920" y="-13" width="1920" height="1093" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1577778489406" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="/media/edrive/Work/area51" />
+    <option name="recentPaths">
+      <list>
+        <option value="/media/edrive/Work/area51/ecommfycommerce2" />
+        <option value="/avetti/svn/commerce8.5" />
+      </list>
+    </option>
+  </component>
+</application>

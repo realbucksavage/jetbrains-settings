@@ -1,0 +1,101 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/media/edrive/Work/BroadleafCommerce">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-192.7142.36" />
+              <option name="buildTimestamp" value="1572321761079" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1574845872606" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/media/edrive/Work/decryptutil">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-192.7142.36" />
+              <option name="buildTimestamp" value="1572321776580" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1574947086480" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/media/edrive/Work/ioblaze/blaze">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-192.7142.36" />
+              <option name="buildTimestamp" value="1572321757693" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1573831481630" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/avetti/doi">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1TyiLnZUaFTs3lfaHa5rHB64PpQ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.6494.35" />
+              <option name="buildTimestamp" value="1581395731129" />
+              <frame x="1920" y="-9" width="1920" height="1089" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1582608682154" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/media/edrive/Work/direct-order-import-3.0">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1XyTzW4RHogbsDc4ZThJqU5WhzP">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.6494.35" />
+              <option name="buildTimestamp" value="1581395748646" />
+              <frame x="2880" y="-9" width="960" height="1089" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1582619634108" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/avetti/svn/commerce8.5">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1TmJOczQEdofHjPK4IPGajqusoD">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.6494.35" />
+              <option name="buildTimestamp" value="1581395740866" />
+              <frame x="54" y="13" width="1866" height="1067" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1582705307808" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/media/edrive/Work/area51/ecommfycommerce2">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1UmsSqIEPuya8qDVziWxq67UTdN">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.6494.35" />
+              <option name="buildTimestamp" value="1581395740866" />
+              <frame x="2076" y="-9" width="1916" height="798" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1582705347310" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="/media/edrive/Work" />
+    <option name="recentPaths">
+      <list>
+        <option value="/media/edrive/Work/area51/ecommfycommerce2" />
+        <option value="/avetti/svn/commerce8.5" />
+        <option value="/media/edrive/Work/direct-order-import-3.0" />
+        <option value="/avetti/doi" />
+        <option value="/media/edrive/Work/ioblaze/blaze" />
+        <option value="/media/edrive/Work/decryptutil" />
+        <option value="/media/edrive/Work/BroadleafCommerce" />
+      </list>
+    </option>
+  </component>
+</application>

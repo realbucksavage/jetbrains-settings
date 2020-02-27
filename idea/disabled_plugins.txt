@@ -1,0 +1,4 @@
+IdeaVIM
+com.intellij.uiDesigner
+com.jetbrains.sh
+org.jetbrains.android
