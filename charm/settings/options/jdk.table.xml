@@ -1,0 +1,167 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Pipenv (server-monitor)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/.local/share/virtualenvs/server-monitor-MQU2n-Ha/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/server-monitor-MQU2n-Ha/lib64/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/server-monitor-MQU2n-Ha/lib64/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib64/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/server-monitor-MQU2n-Ha/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-576933237" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/server-monitor" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (protodep)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/.local/share/virtualenvs/protodep-ud17wv05/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/protodep-ud17wv05/lib64/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/protodep-ud17wv05/lib64/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib64/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/protodep-ud17wv05/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/.local/share/virtualenvs/protodep-ud17wv05/lib/python3.7/site-packages/protodep-0.1-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1152440894" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="/media/edrive/Work/python_stuff/protodep" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (database_api)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/.local/share/virtualenvs/database_api-mnRf1ZRy/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/database_api-mnRf1ZRy/lib64/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/database_api-mnRf1ZRy/lib64/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib64/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/database_api-mnRf1ZRy/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/524953061" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="/media/edrive/Work/python_stuff/database_api" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (common-python-scripts)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/.local/share/virtualenvs/common-python-scripts-pjTxli6e/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/common-python-scripts-pjTxli6e/lib64/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/common-python-scripts-pjTxli6e/lib64/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib64/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/common-python-scripts-pjTxli6e/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1956647513" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="/media/edrive/Work/python_stuff/common-python-scripts" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (cpd-grpc-service)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/.local/share/virtualenvs/cpd-grpc-service-PDrmQSz2/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/cpd-grpc-service-PDrmQSz2/lib64/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/cpd-grpc-service-PDrmQSz2/lib64/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib64/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/cpd-grpc-service-PDrmQSz2/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1366346777" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="/media/edrive/Work/area51/cpd-grpc-service" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (points_auto)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/.local/share/virtualenvs/points_auto-FST0k1GX/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/points_auto-FST0k1GX/lib64/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/points_auto-FST0k1GX/lib64/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib64/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/virtualenvs/points_auto-FST0k1GX/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1854298115" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="/media/edrive/Work/python_stuff/points_auto" IS_PIPENV="true" />
+    </jdk>
+  </component>
+</application>

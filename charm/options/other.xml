@@ -1,0 +1,57 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="12.13.0" last-modified="1573072813000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Cantarell Regular" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="ideavim" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="MarketplacePluginsSearchHistory" value="key&#10;dark pur&#10;da&#10;atom material&#10;atom one dark" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SettingsSearchHistory" value="format&#10;ideavim" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="pyth" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="evlsprt3.193" value="12" />
+    <property name="export.settings.marked" value="codestyles|editor.xml|databaseDrivers.xml|debugger.xml|colors.scheme.xml|filetypes.xml|applicationLibraries.xml|ignore.xml|inspection|KeyPromoterXSettings.xml|laf.xml|markdown.xml|plugin_ui.xml|jdk.table.xml|ui.lnf.xml|updates.xml|" />
+    <property name="file.chooser.recent.files" value="/media/edrive/Work/python_stuff/points_auto&#10;/media/edrive/Work/area51/cpd-grpc-service&#10;/media/edrive/Work/area51/cpd-grpc-service/cpd/settings.py&#10;/media/edrive/Work/python_stuff/protodep/protodep/main.py" />
+    <property name="file.gist.reindex.count" value="26964" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ideavim.statistics.timestamp" value="1578939321616" />
+    <property name="lastTip" value="48" />
+    <property name="selected.color.option.type" value="PY.FSTRING_FRAGMENT_COLON" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.7.2" />
+  </component>
+</application>

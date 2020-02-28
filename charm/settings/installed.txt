@@ -1,0 +1,17 @@
+BashSupport
+Key Promoter X
+aws.toolkit
+com.andrey4623.rainbowcsv
+com.github.redfoos.logstash-intellij-plugin
+com.intellij.plugins.html.instantEditing
+com.jetbrains.darkPurpleTheme
+com.mallowigi
+com.markskelton.one-dark-theme
+com.vermouthx.idea
+io.protostuff.protostuff-jetbrains-plugin
+mobi.hsz.idea.gitignore
+net.seesharpsoft.intellij.plugins.csv
+org.jetbrains.plugins.hocon
+org.rust.lang
+org.toml.lang
+ru.meanmail.plugin.requirements

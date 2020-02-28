@@ -1,0 +1,145 @@
+<application>
+  <component name="VimLocalSettings">
+    <state version="5" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1577253467339">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1577253504052">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/edrive/Work/python_stuff/protodep/Pipfile" timestamp="1576606196481">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
+      <file name="/a.dummy" timestamp="1576607069342">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="/media/edrive/Work/python_stuff/protodep/protodep/core/repo.py" timestamp="1576609832241">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+      </file>
+      <file name="/media/edrive/Work/python_stuff/database_api/app.py" timestamp="1578939410506">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+      </file>
+      <file name="/media/edrive/Work/python_stuff/protodep/.gitignore" timestamp="1577707498021">
+        <mark key="[" line="196" column="3" />
+        <mark key="]" line="196" column="6" />
+        <mark key="^" line="196" column="6" />
+        <mark key="." line="196" column="6" />
+      </file>
+      <file name="/media/edrive/Work/python_stuff/database_api/config/__init__.py" timestamp="1578939772071">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="/media/edrive/Work/python_stuff/protodep/protodep/commands/info.py" timestamp="1576674736504">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+        <mark key="o" line="12" column="46" />
+      </file>
+      <file name="/media/edrive/Work/python_stuff/protodep/README.md" timestamp="1577707580445">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
+      <file name="/media/edrive/Work/python_stuff/protodep/protodep/main.py" timestamp="1576609989187">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+      </file>
+      <file name="/media/edrive/Work/python_stuff/protodep/protodep/__main__.py" timestamp="1576607727920">
+        <mark key="a" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
+      <file name="/media/edrive/Work/python_stuff/protodep/protodep/commands/init.py" timestamp="1576674436590">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+      </file>
+      <file name="/media/edrive/Work/python_stuff/protodep/setup.py" timestamp="1576607957085">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="43" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="0" filename="/media/edrive/Work/python_stuff/protodep/protodep/commands/info.py" />
+      <jump line="7" column="22" filename="/media/edrive/Work/python_stuff/database_api/config/__init__.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZW1vdGUgPSBwcm90b2ZpbGVbInJlbW90ZSJdCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>env</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXBvLmdldF9yZW1vdGVfYmFzZSgpCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGpzb25fZmlsZSA9IG9wZW4oIlByb3RvZmlsZS5sb2NrIikKICAgICAgICBleGNlcHQgSU9FcnJvcjoKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJDYW5ub3Qgc3RhdCBsb2NhbCByZXBvLiBQbGVhc2UgcHJvdG9kZXAgaW5pdCBmaXJzdC4iKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHdpdGgganNvbl9maWxlOgogICAgICAgICAgICAgICAgcHJvdG9maWxlID0ganNvbi5sb2FkKGpzb25fZmlsZSk=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oIlByb3RvZmlsZS5qc29uIikgYXMganNvbl9maWxlOgogICAgICAgICAgICBwcm90b2ZpbGUgPSBqc29uLmxvYWQoanNvbl9maWxlKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgZm9yIGYgaW4gcHJvdG9maWxlWyJmaWxlcyJdOg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBzZXR1cHRvb2xzIGltcG9ydCBzZXR1cCwgZmluZF9wYWNrYWdlcwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>protodep.cli&quot;: [
+            &quot;list = protodep.commands.info:Info&quot;
+        ]</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBdCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text>env</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>q!</entry>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>
